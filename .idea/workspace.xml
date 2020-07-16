@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d619bb1-191f-4bea-b500-7f858fd34358" name="Default Changelist" comment="" />
+    <list default="true" id="0d619bb1-191f-4bea-b500-7f858fd34358" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Organization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Organization.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1emMtnp1HqvsoXOiefoy7BVRsus" />
   <component name="ProjectViewState">
@@ -50,7 +56,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594922532575</updated>
-      <workItem from="1594922536536" duration="2489000" />
+      <workItem from="1594922536536" duration="2654000" />
+      <workItem from="1594925581474" duration="29000" />
     </task>
     <servers />
   </component>
@@ -62,17 +69,17 @@
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
     <state x="1520" y="217" key="#Project_Structure/0.23.2560.1057@0.23.2560.1057" timestamp="1594922546825" />
-    <state x="1733" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1594925149625">
+    <state x="1733" y="242" key="#com.intellij.ide.util.MemberChooser" timestamp="1594925608958">
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
-    <state x="1733" y="242" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1057@0.23.2560.1057" timestamp="1594925149625" />
+    <state x="1733" y="242" key="#com.intellij.ide.util.MemberChooser/0.23.2560.1057@0.23.2560.1057" timestamp="1594925608958" />
     <state x="1408" y="133" key="SettingsEditor" timestamp="1594924940557">
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
     <state x="1408" y="133" key="SettingsEditor/0.23.2560.1057@0.23.2560.1057" timestamp="1594924940557" />
-    <state x="1613" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1594922538463">
+    <state x="1613" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1594925582392">
       <screen x="0" y="23" width="2560" height="1057" />
     </state>
-    <state x="1613" y="384" key="com.intellij.ide.util.TipDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1594922538463" />
+    <state x="1613" y="384" key="com.intellij.ide.util.TipDialog/0.23.2560.1057@0.23.2560.1057" timestamp="1594925582392" />
   </component>
 </project>
